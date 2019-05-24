@@ -4,19 +4,19 @@
 
 .box{
     float: left;
-    width: 256px;
-    height: 128px;
-    margin: 10px 5px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px black;
+    width: 20%;
+    height: 13%;
+    margin: 10% 5%;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10% black;
     overflow: hidden;
 }
 
 
 .img-16-16{
 
-    width: 20px;
-    heght: 20px;
+    width: 2%;
+    heght: 2%;
 }
 
 
@@ -36,7 +36,7 @@
 
 #menu ul li a {
     /*espaço*/
-    padding: 2px 10px;
+    padding: 2% 10%;
     display:inline-block;
 
     /*visual da lista*/
@@ -111,4 +111,23 @@ form label {
 }
 .diva{
     height: 220px;
+}
+
+.contraste-background{
+    height: 500px;
+}
+
+.margin-topo-card{
+    margin-top: 2%;
+}
+
+.background-color-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.background-color-navbar{
+    background-color:#34ce57;
+
 }
