@@ -107,14 +107,14 @@ form label {
     font-weight: bold;}
 
 .imagem-card{
-    border-radius: 15px;
+    border-radius: 55%;
 }
 .diva{
-    height: 220px;
+    height: 22%;
 }
 
 .contraste-background{
-    height: 500px;
+    height: 100%;
 }
 
 .margin-topo-card{
