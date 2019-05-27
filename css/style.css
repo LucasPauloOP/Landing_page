@@ -136,3 +136,14 @@ form label {
     margin-top: 15%;
 
 }
+
+@media screen and (min-width:375px)
+{
+    .col-xs-20{
+        min-width: 300px;
+    }
+
+    .col-sm-12{
+        min-width: 100px;
+    }
+}
